@@ -1,0 +1,17 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+img {
+    height: 600px;
+    width: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#directions {
+   display: flex;
+   justify-content: center;
+}
